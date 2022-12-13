@@ -1,0 +1,15 @@
+C:\Users\Riju\source\repos\StudentMnagementSystem\StudentMnagementSystem\bin\Debug\net6.0\StudentMnagementSystem.exe
+C:\Users\Riju\source\repos\StudentMnagementSystem\StudentMnagementSystem\bin\Debug\net6.0\StudentMnagementSystem.deps.json
+C:\Users\Riju\source\repos\StudentMnagementSystem\StudentMnagementSystem\bin\Debug\net6.0\StudentMnagementSystem.runtimeconfig.json
+C:\Users\Riju\source\repos\StudentMnagementSystem\StudentMnagementSystem\bin\Debug\net6.0\StudentMnagementSystem.dll
+C:\Users\Riju\source\repos\StudentMnagementSystem\StudentMnagementSystem\bin\Debug\net6.0\StudentMnagementSystem.pdb
+C:\Users\Riju\source\repos\StudentMnagementSystem\StudentMnagementSystem\obj\Debug\net6.0\StudentMnagementSystem.csproj.AssemblyReference.cache
+C:\Users\Riju\source\repos\StudentMnagementSystem\StudentMnagementSystem\obj\Debug\net6.0\StudentMnagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Riju\source\repos\StudentMnagementSystem\StudentMnagementSystem\obj\Debug\net6.0\StudentMnagementSystem.AssemblyInfoInputs.cache
+C:\Users\Riju\source\repos\StudentMnagementSystem\StudentMnagementSystem\obj\Debug\net6.0\StudentMnagementSystem.AssemblyInfo.cs
+C:\Users\Riju\source\repos\StudentMnagementSystem\StudentMnagementSystem\obj\Debug\net6.0\StudentMnagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Riju\source\repos\StudentMnagementSystem\StudentMnagementSystem\obj\Debug\net6.0\StudentMnagementSystem.dll
+C:\Users\Riju\source\repos\StudentMnagementSystem\StudentMnagementSystem\obj\Debug\net6.0\refint\StudentMnagementSystem.dll
+C:\Users\Riju\source\repos\StudentMnagementSystem\StudentMnagementSystem\obj\Debug\net6.0\StudentMnagementSystem.pdb
+C:\Users\Riju\source\repos\StudentMnagementSystem\StudentMnagementSystem\obj\Debug\net6.0\StudentMnagementSystem.genruntimeconfig.cache
+C:\Users\Riju\source\repos\StudentMnagementSystem\StudentMnagementSystem\obj\Debug\net6.0\ref\StudentMnagementSystem.dll
